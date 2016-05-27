@@ -1,0 +1,6 @@
+[Desktop Entry]
+	Name=Telegram
+	Exec=/home/saarang/Softwares/Telegram/Telegram
+	Icon=/home/saarang/Softwares/Telegram/icon_telegram.png
+	Type=Application
+	Categories=GTK;GNOME;Utility;
